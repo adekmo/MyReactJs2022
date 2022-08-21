@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My New Website",
+      "body": "lorem...",
+      "author": "Adek",
+      "id": 1
+    },
+    {
+      "title": "Yokosho",
+      "body": "lorem...",
+      "author": "Monang",
+      "id": 2
+    },
+    {
+      "title": "Test",
+      "body": "Test Body",
+      "author": "Monang",
+      "id": 3
+    }
+  ]
+}
