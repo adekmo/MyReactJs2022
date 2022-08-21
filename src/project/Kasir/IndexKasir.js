@@ -3,7 +3,7 @@ import React from 'react'
 const IndexKasir = () => {
     return (
         <div>
-            <h2>Kasir</h2>
+            <h2>Kasirrrr</h2>
         </div>
     )
 }
