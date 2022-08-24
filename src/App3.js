@@ -1,5 +1,7 @@
 import React from 'react'
 import Birthday from './project/Birthday/Birthday'
+import IndexKasir from './project/Kasir/IndexKasir'
+import IndexReview from './project/Review/IndexReview'
 import IndexTour from './project/Tours/IndexTour'
 
 
@@ -18,7 +20,7 @@ const App3 = () => {
             </div>
 
             <div className="project3">
-                {/* <IndexTour /> */}
+                <IndexReview />
             </div>
         </div>
     )
